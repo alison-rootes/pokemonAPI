@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://lh4.googleusercontent.com/proxy/igfGqDooDx2rXYG3dsiv924vCcKOfUZ3b97M_AJE9iYLYR01z_P0Q7xVInQOl2objonkgFtr90OcrL4m7blx0L0VNLPLXHFcVa5Twp7dRAJg_J63NoFNt42nyGiv9BOUIG2-ZLs5mw=s0-d);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+#logo{
+    height: 5%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+#container {
+    margin: auto;
+}
+
+#poke-container {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+
+#header-container {
+    border-radius: 0px;
+}
+
+#header-text{
+    margin: 0 auto;
+    height: 15%;
+    text-align: center;
+}
+
+#generate-pokemon {
+    margin: 0 auto;
+}
+
+#delete-btn {
+    position: absolute;
+    left: 85%;
+    display: none;
+    margin-bottom: 5%;
+}
+
